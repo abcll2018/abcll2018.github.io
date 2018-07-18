@@ -11,7 +11,7 @@ github_repo: "https://github.com/abcll2018/abcll2018.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "仁者乐山,渔者乐水"
 sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
