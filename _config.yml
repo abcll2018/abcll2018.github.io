@@ -97,16 +97,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "google",
+        href: "http://google.com"
     },{
-        title: "简书·BY",
+        title: "简书·LL",
         href: "http://www.jianshu.com/u/"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "中钓论坛",
+        href: "http://bbs.xingyunit.cn/"
     }
 ]
